@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# 🎥 Entertainment Hub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React-based website is designed to help users discover new trending movies and TV series. It provides information about media content, including trailers and plot summaries.
 
-## Available Scripts
+## 🛠️ Technologies Used
 
-In the project directory, you can run:
+This project is built using the following technologies and libraries:
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="16" height="16"> React 18
+- <img src="https://raw.githubusercontent.com/UtkarshSinghChouhan/Gym_Website/80f0bd111c3c89659501b8282b409427a7c75147/screen-shots/react-router.svg" alt="React Router" width="16" height="16"> React Router Version 6
+- <img src="https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/3a575e59-e3ac-4324-b420-e032649f2f5b" alt="Material UI" width="16" height="16"> Material UI Version 4 
+- <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" alt="Axios" width="16" height="16"> Axios for Data Fetching
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Responsive Design**
+     - Enjoy a seamless experience on both desktop and mobile devices.
+- **Trending Movies and TV Series**
+    - View a curated list of currently trending movies and TV series.
+- **Media Details**
+    - Click on a movie or TV series to view detailed information.
+    - Displayed information includes title, release year, genres, ratings, and more.
+- **Search Functionality**
+    - Search for specific movies or TV series by title or keywords.
+    - Auto-suggestions for faster and more accurate searches.
 
-### `npm test`
+## 🚀 Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can see a live demo of this project [here](https://entertainment-hub-eta.vercel.app/).
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🖼️ Screenshots:
+![Screenshot 2023-09-17 084528](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/515a2fb5-7f38-4640-aeac-a31409e9db3e)
+![Screenshot 2023-09-17 084603](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/ed0e9873-ce08-4eca-8b67-f28e1e8aa900)
+![Screenshot 2023-09-17 084733](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/496ac55c-d35c-4153-8ad3-99d4d56a4003)
+![Screenshot 2023-09-17 084817](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/6116601a-1510-465e-9f77-6891f0d5a240)
+![Screenshot 2023-09-17 084905](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/ddc2e87c-656c-4bac-99b2-5ba3db634a3f)
+![Screenshot 2023-09-17 084932](https://github.com/Mayank-Singh-Chouhan/Entertainment-Hub/assets/84614961/1f30a31a-813e-4251-8929-a5c7441357af)
